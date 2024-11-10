@@ -6,7 +6,7 @@ This is repository for smart contract of Pump.fun. As a smart contact part of Pu
 ## Contact me
 
 
-discord:  joni_727373
+discord:  adelo_8
 
 telegram: @Akamala88071015
 
