@@ -6,9 +6,9 @@ This is repository for smart contract of Pump.fun. As a smart contact part of Pu
 ## Contact me
 
 
-discord:  adelo_8
+discord:  @erikerik116
 
-telegram: @Akamala88071015
+telegram: @erikerik116
 
 
 The Pump.fun smart contract is a decentralized system that manages the creation, distribution, and trading of tokens using a bonding curve model.
